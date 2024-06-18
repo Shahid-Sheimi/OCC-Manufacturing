@@ -14,7 +14,7 @@ Clone the repository
 
 Navigate to the project directory
 
-``` cd manufacturing_backend ```
+``` cd OCC-Manufacturing ```
 
 1. Open your favorite shell (that has conda in its path), and run the following three commands:
 
