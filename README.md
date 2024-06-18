@@ -10,7 +10,7 @@ This is a backend server for manufacturing processes using Django. It includes a
 ### Setting up the Environment
 Clone the repository 
 
-```git clone https://github.com/vovashik0310/manufacturing_backend.git```
+```git clone https://github.com/Shahid-Sheimi/OCC-Manufacturing.git```
 
 Navigate to the project directory
 
